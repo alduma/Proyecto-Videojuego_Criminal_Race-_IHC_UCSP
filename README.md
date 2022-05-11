@@ -12,5 +12,3 @@
  -video explicativo : a continuacion se encuentra el link de un video que muestra la demo del videojuego.<br/>
  
  
- ----------------------------------------------------------------------------------------------------------------------------------
- 
